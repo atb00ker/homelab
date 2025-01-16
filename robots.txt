@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/
+Sitemap: https://atb00ker.github.io/sitemap.xml
