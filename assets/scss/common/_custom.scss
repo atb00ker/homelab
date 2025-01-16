@@ -1,0 +1,16 @@
+// Put your custom SCSS code here
+.footer {
+  display: none;
+}
+
+.content {
+  min-height: calc(100vh - 67px);
+}
+
+#searchToggleDesktop {
+  display: none !important;
+}
+
+#searchToggleMobile {
+  display: none !important;
+}
